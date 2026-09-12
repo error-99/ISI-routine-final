@@ -1,0 +1,8 @@
+{
+  "name": "ISU Routine & Student Portal",
+  "description": "Mobile-first PWA for class routines, CTs, exams, course management, profile settings, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
